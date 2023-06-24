@@ -1,0 +1,309 @@
+header nav {
+    display: flex;
+
+}
+*{
+    width: 100%;
+}
+nav h1 {
+    margin-top: 92px;
+    margin-left: 370px;
+    width: 313px;
+    height: 28px;
+    color: var(--gray-1, #333);
+    font-size: 40px;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    line-height: 28px;
+}
+nav div{
+    margin-top: 90px;
+margin-left:10px;
+width: 130px;
+height: 40px;
+border-radius: 30px;
+margin: 1px solid;
+}
+nav div p{
+    margin: 12px;
+}
+nav .bir{
+    margin-left: 178px;
+    border: 1px solid rgb(57, 53, 53);
+}
+nav .ikki{
+    border: 1px solid rgb(57, 53, 53);
+
+}
+nav .uch{
+    width: 200px;
+    border: 1px solid rgb(57, 53, 53);
+
+}
+nav .tort{
+    width: 200px;
+    border: 1px solid rgb(57, 53, 53);
+
+}
+
+.bir:hover{
+    background-color:blueviolet;
+    color: white;
+    font-size:16px;
+}
+.ikki:hover{
+    background-color:blueviolet;
+    color: white;
+    font-size:16px;
+}
+.uch:hover{
+    background-color:blueviolet;
+    color: white;
+    font-size:16px;
+}
+.tort:hover{
+    background-color:blueviolet;
+    color: white;
+    font-size:16px;
+}
+main .birr {
+    width: 50px;
+    height: 20px;
+    margin-left: 470px;
+    margin-top: 45px;
+}
+main .ikkii {
+    width: 41px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .uchh {
+    width: 51px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .tortt {
+    width: 62px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .besh {
+    width: 92px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .olti {
+    width: 52px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .yetti {
+    width: 51px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .sakkiz {
+    width: 85px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .toqqiz {
+    width: 65px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .on {
+    width: 54px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .onbir {
+    width: 104px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .onikki {
+    width: 65px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main .onuch {
+    width: 107px;
+    height: 20px;
+    margin-left: 19px;
+    margin-top: 45px;
+}
+main a{
+    color: var(--gray-2, #4F4F4F);
+font-size: 14px;
+font-family: Montserrat;
+line-height: 21.6px;
+text-decoration: none;
+}
+main a:hover{
+    color: blueviolet;
+}
+section .left{
+    width: 110px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 390px;
+    border-radius: 30px;
+    border: 1px solid rgb(49, 44, 44);
+
+}
+section .left p{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+section .right{
+    width: 140px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 890px;
+    border: 1px solid rgb(49,44,44);
+    border-radius: 30px;
+    display: flex;
+
+}
+section .right p{
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 30px;
+    height: 20px;
+
+}
+.right img{
+width: 24px;
+height: 24px;
+margin-left: 35px;
+margin-top: 10px;
+}
+section{
+    display: flex;
+}
+.bottom img{
+    width: 380px;
+    height: 360px;
+
+}
+.bottom .top{
+    display: flex;
+}
+.bottom .midle{
+    display: flex;
+}
+.bottom .oxiri{
+    display: flex;
+}
+.bottom .top .img1{
+    margin-top: 30px;
+    margin-left: 370px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .top .img2{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .top .img3{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .top h1{
+    width: 215px;
+    height: 20px;
+    margin-top: 14px;
+    font-size: 16px;
+}
+.bottom .top p{
+    margin-top: 2px;
+    width: 215px;
+    height: 20px;
+}
+
+.bottom .midle .img4{
+    margin-top: 75px;
+    margin-left: 370px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .midle .img5{
+    margin-top: 75px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .midle .img6{
+    margin-top: 75px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .midle .img4 h1{
+    width: 215px;
+    height: 20px;
+    margin-top: 14px;
+    font-size: 16px;
+}
+.bottom .midle .img5 h1{
+    width: 318px;
+    height: 20px;
+    margin-top: 14px;
+    font-size: 16px;
+}
+.bottom .midle .img6 h1{
+    width: 318px;
+    height: 20px;
+    margin-top: 14px;
+    font-size: 16px;
+}
+.bottom .midle p{
+    margin-top: 2px;
+    width: 215px;
+    height: 20px;
+}
+.bottom .oxiri .img7{
+    margin-top: 75px;
+    margin-left: 370px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .oxiri .img8{
+    margin-top: 75px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .oxiri .img9{
+    margin-top: 75px;
+    margin-left: 20px;
+    width: 380px;
+    height: 360px;
+}
+.bottom .oxiri h1{
+    width: 215px;
+    height: 20px;
+    margin-top: 14px;
+    font-size: 16px;
+}
+.bottom .oxiri p{
+    margin-top: 2px;
+    width: 215px;
+    height: 20px;
+}
